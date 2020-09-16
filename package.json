@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "Complete Nodejs Guide From Scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Victor Ikuomola",
+  "license": "ISC"
+}
